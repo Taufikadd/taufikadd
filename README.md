@@ -30,5 +30,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufikadd&theme=tokyonight" alt="taufikadd streak" /> 
 </div> 
 
+ <!--  Snake Animation -->
+  <div align="center"> 
+  
+ 
 
+
+<!-- GitHub Snake Animation -->
+ ![snake gif](https://raw.githubusercontent.com/Taufikadd/Taufikadd/output/github-snake.svg)
+ </div>
 <!--  my kills -->
